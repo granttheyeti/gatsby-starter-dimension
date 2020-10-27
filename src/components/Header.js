@@ -28,6 +28,11 @@ const Header = props => (
             <a href="https://anchor.fm/grapenutspodcast">Grape-Nuts Podcast</a>
           </button>
         </li>
+        <li>
+          <button>
+            <a href="https://thenotesproject.surge.sh">Notes Project</a>
+          </button>
+        </li>
       </ul>
     </nav>
   </header>
