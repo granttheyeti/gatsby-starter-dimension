@@ -25,6 +25,11 @@ const Header = props => (
         </li>
         <li>
           <button>
+            <a href="https://granttheyeti.medium.com/">The Yeti Version</a>
+          </button>
+        </li>
+        <li>
+          <button>
             <a href="https://anchor.fm/grapenutspodcast">Grape-Nuts Podcast</a>
           </button>
         </li>
