@@ -8,19 +8,14 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <p>A portal to the different projects I'm working on</p>
+        <p>Different projects I'm working on</p>
       </div>
     </div>
     <nav>
       <ul>
         <li>
           <button>
-            <a href="https://www.faithandworkmovement.org/reconciliation">Faith & Work Movement</a>
-          </button>
-        </li>
-        <li>
-          <button>
-            <a href="http://wonderproject.netlify.app/">Wonder Project</a>
+            <a href="https://anchor.fm/grapenutspodcast">Grape-Nuts Podcast</a>
           </button>
         </li>
         <li>
@@ -30,7 +25,12 @@ const Header = props => (
         </li>
         <li>
           <button>
-            <a href="https://anchor.fm/grapenutspodcast">Grape-Nuts Podcast</a>
+            <a href="http://wonderproject.netlify.app/">Wonder Project</a>
+          </button>
+        </li>
+        <li>
+          <button>
+            <a href="https://www.faithandworkmovement.org/reconciliation">Faith & Work Movement</a>
           </button>
         </li>
         <li>
