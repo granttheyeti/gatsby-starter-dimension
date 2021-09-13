@@ -20,12 +20,7 @@ const Header = props => (
         </li>
         <li>
           <button>
-            <a href="https://granttheyeti.medium.com/">The Yeti Version</a>
-          </button>
-        </li>
-        <li>
-          <button>
-            <a href="http://wonderproject.netlify.app/">Wonder Project</a>
+            <a href="https://granttheyeti.medium.com/">The Yeti Version & Blog</a>
           </button>
         </li>
         <li>
