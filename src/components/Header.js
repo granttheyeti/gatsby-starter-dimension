@@ -15,17 +15,17 @@ const Header = props => (
       <ul>
         <li>
           <button>
+            <a href="https://miwpodcast.libsyn.com/trusting-god-in-chronic-pain-grant-hoffecker">Chronic Pain Podcast</a>
+          </button>
+        </li>
+        <li>
+          <button>
             <a href="https://anchor.fm/grapenutspodcast">Grape-Nuts Podcast</a>
           </button>
         </li>
         <li>
           <button>
             <a href="https://granttheyeti.medium.com/">The Yeti Version & Blog</a>
-          </button>
-        </li>
-        <li>
-          <button>
-            <a href="https://www.faithandworkmovement.org/reconciliation">Faith & Work Movement</a>
           </button>
         </li>
         <li>
